@@ -1,0 +1,6 @@
+build/ 
+*.o 
+*.elf 
+*.prx 
+EBOOT.PBP 
+.DS_Store 
